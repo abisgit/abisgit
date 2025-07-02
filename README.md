@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### Other Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
