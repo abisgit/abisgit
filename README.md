@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://et.linkedin.com/in/abeselom-landber-1a761715a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/yourprofile](https://et.linkedin.com/in/abeselom-landber-1a761715a)]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
