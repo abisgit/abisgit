@@ -1,4 +1,4 @@
-## Hi there 👋 I am Abeselom 
+## Hi there 👋 I'm Abeselom 
 
 <!--
 **abisgit/abisgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
