@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-### Frameworks & Libraries:
+### <code> Frameworks & Libraries:</code>
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -38,24 +38,24 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FF5722?logo=laravel&logoColor=white) *(Filament uses Laravel's logo as it lacks an official badge)*
 
-### Cloud & DevOps:
+### <code> Cloud & DevOps:</code>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
-### Databases:
+### <code> Databases:</code>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### Other Tools:
+### <code> Other Tools:</code>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FFD700?logo=openai&logoColor=black)
 
 ---
 
-### Connect with me:
+### <code> Connect with me:</code>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/abeselom-landber-1a761715a)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11935475/abeselom-landber)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abeselomse@gmail.com)
