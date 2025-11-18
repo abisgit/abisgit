@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FF5722?logo=laravel&logoColor=white) *(Filament uses Laravel's logo as it lacks an official badge)*
+![Filament](https://img.shields.io/badge/Filament-FF5722?logo=laravel&logoColor=white) 
 
 ### <code> Cloud & DevOps:</code>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
