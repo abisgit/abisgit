@@ -1,8 +1,9 @@
 ## <code> Hi there 👋 I'm Abeselom Landber 👨‍💻</code>
  
  
-📚 <code>I’m currently learning blockchain development, smart contracts, and decentralized applications (DApps).</code>
-
+💻 <code>Full-Stack Developer</code>
+📚 <code>Currently learning Blockchain, Smart Contracts, and DApps</code>
+🔗 <code>Exploring decentralized systems and Web3 technologies</code>
 <!--
 **abisgit/abisgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
